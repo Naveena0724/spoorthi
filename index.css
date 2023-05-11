@@ -1,0 +1,19 @@
+.card{
+    border: 2px solid burlywood;
+    width:320px;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 40px;
+    background-color: bisque;
+}
+.card-img{
+    border-radius: 20px;
+    width:80%;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card:hover{
+    border: 6px solid black;
+}
